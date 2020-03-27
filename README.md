@@ -1,7 +1,8 @@
 # Running App Projects 
-![Screen Shot](https://github.com/lucianboatright/Python_Running_app/blob/master/Run_app_finished/Images/gui.png)
+![GUI](https://github.com/lucianboatright/Python_Running_app/blob/master/Images/gui.png)
 
-![Screen Shot](https://github.com/lucianboatright/Python_Running_app/blob/master/Run_app_finished/Images/terminal.png)
+![Terminal](https://github.com/lucianboatright/Python_Running_app/blob/master/Images/terminal.png)
+
 
 Open program in Idle SDK and then open the tkinter app with F5
 This will open an idle python terminal showing the saved stats being held in the text file associated to the program.
